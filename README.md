@@ -17,7 +17,7 @@ Most of my code is private. These are live, and every one was built with the Loo
 | [Open Finance Back Office](https://backoffice.openfinance-os.org/) | Back-office platform for an Open Finance participant, built end to end on the Loom. Demo on request. |
 | [middleleap.com](https://middleleap.com) | The practice and venture studio |
 | **MiddleLeap Ventures** | |
-| Unleash | AI-assisted coaching for karting: coach debriefs built from telemetry and helmet-cam video, delivered the same day |
+| [Unleash](https://unleashracing.com/) | AI-assisted coaching for karting: coach debriefs built from telemetry and helmet-cam video, delivered the same day |
 | [Setbay](https://setbay.ae) | Turns hotels' unused weekday parking into reserved monthly bays for companies and their staff, in Dubai |
 
 ## The Loom
