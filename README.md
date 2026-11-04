@@ -20,6 +20,10 @@ Most of my code is private. These are live, and every one was built with the Loo
 | [Unleash](https://unleashracing.com/) | AI-assisted coaching for karting: coach debriefs built from telemetry and helmet-cam video, delivered the same day |
 | [Setbay](https://setbay.ae) | Turns hotels' unused weekday parking into reserved monthly bays for companies and their staff, in Dubai |
 
+## Open source
+
+- [**Open Finance data sandbox**](https://github.com/openfinance-os/data-sandbox): synthetic UAE Open Finance v2.1 data across banking, insurance and ATMs, with an MCP server so agents can work with it
+
 ## The Loom
 
 **The Loom** is a method, with Claude Code plugins, for AI-enabled delivery in regulated environments. A gated discovery harness finds the right problem. A delivery harness ships it under human review. Always-on controls run through both.
